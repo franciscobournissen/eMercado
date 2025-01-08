@@ -2,6 +2,8 @@
 
 Este proyecto consiste en un ecommerce desarrollado como parte de un curso de desarrollo front end ofrecido por la iniciativa **Jóvenes a Programar** de Ceibal. El proyecto fue realizado en equipo y tiene como objetivo aplicar y demostrar habilidades adquiridas durante el curso.
 
+Las tecnologías involucradas son **HTML**, **CSS** y **JavaScript**, además del uso del framework **Bootstrap**.
+
 ## Características del Ecommerce
 
 - **Catálogo de productos**: Visualiza una lista de artículos disponibles.
